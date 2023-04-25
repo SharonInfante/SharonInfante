@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Soy desarrolladora web full-stack en formación. Creativa, responsable, comunicativa. Apasionada por el front-end y la creación de sitios web atractivos y fortaleciendo mis habilidades de desarrollo backend. <br><br>Mi principal objetivo es incursionar en la tecnología, dentro de equipos de trabajo entusiastas y con buenas prácticas de desarrollo donde pueda seguir aprendiendo y contribuyendo.<br><br>
+Soy desarrolladora web full-stack junior. Creativa, responsable, comunicativa. Apasionada por el front-end y la creación de sitios web atractivos, fortaleciendo mis habilidades de desarrollo backend. <br><br>Mi principal objetivo es incursionar en la tecnología, dentro de equipos de trabajo entusiastas y con buenas prácticas de desarrollo donde pueda seguir aprendiendo y contribuyendo.<br><br>
 
 
 ## 🌐 Socials:
